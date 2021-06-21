@@ -1,0 +1,5 @@
+# ninja log v5
+1	93	645983978	CMakeFiles/native_add.dir/C_/Users/Hasif/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	358f91705f56a370
+93	311	645983978	C:/Users/Hasif/AndroidStudioProjects/native_add/example/build/native_add/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	88d1b8d34e95e3c0
+1	125	646001348	CMakeFiles/native_add.dir/C_/Users/Hasif/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	358f91705f56a370
+125	417	646001348	C:/Users/Hasif/AndroidStudioProjects/native_add/example/build/native_add/intermediates/cmake/debug/obj/arm64-v8a/libnative_add.so	88d1b8d34e95e3c0

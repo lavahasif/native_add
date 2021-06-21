@@ -1,0 +1,44 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Hasif/AndroidStudioProjects/native_add/android/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Hasif/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Hasif/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_add_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\Hasif\\AndroidStudioProjects\\native_add\\android\\CMakeLists.txt",
+    "C:\\Users\\Hasif\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Hasif\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Hasif\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Hasif\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Hasif\\AndroidStudioProjects\\native_add\\android\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Hasif\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Hasif\\AndroidStudioProjects\\native_add\\android\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_add-Debug-x86": {
+      "buildCommand": "C:\\Users\\Hasif\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Hasif\\AndroidStudioProjects\\native_add\\android\\.cxx\\cmake\\debug\\x86\" native_add",
+      "buildType": "debug",
+      "toolchain": "1641130547",
+      "abi": "x86",
+      "artifactName": "native_add",
+      "files": [
+        {
+          "src": "C:\\Users\\Hasif\\AndroidStudioProjects\\native_add\\ios\\Classes\\native_add.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Hasif\\AndroidStudioProjects\\native_add\\example\\build\\native_add\\intermediates\\cmake\\debug\\obj\\x86\\libnative_add.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1641130547": {
+      "cppCompilerExecutable": "C:\\Users\\Hasif\\AppData\\Local\\Android\\Sdk\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

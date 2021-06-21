@@ -1,0 +1,5 @@
+# ninja log v5
+1	302	645983977	CMakeFiles/native_add.dir/C_/Users/Hasif/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	57cf040002bd98e3
+303	472	645983977	C:/Users/Hasif/AndroidStudioProjects/native_add/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	ac41dc7fa0aab411
+2	230	646001348	CMakeFiles/native_add.dir/C_/Users/Hasif/AndroidStudioProjects/native_add/ios/Classes/native_add.cpp.o	57cf040002bd98e3
+230	619	646001348	C:/Users/Hasif/AndroidStudioProjects/native_add/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_add.so	ac41dc7fa0aab411
